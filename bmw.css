@@ -10,7 +10,7 @@ html{
 }
 body{
     font-family: sans-serif;
-    background: linear-gradient(to top,#7795e9,#16588E);
+    
     display: flex;
     justify-content: center;
     align-items: center;
